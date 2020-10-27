@@ -43,11 +43,17 @@ Korea University, Seoul, Korea
     - Spring, 2019, [COSE371: Database](https://cose371.github.io/)
 
 `2016`
-- Qualcomm Innovation Award (Korea University + Qualcomm): 
+- Qualcomm Innovation Scholarship Award (Qualcomm and Korea University): 
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
 
 - Best Paper (Korea Information Processing Society Conference):
     - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+
+`2014`
+- Scholarship supported by Korea University
+
+`2009~2013`
+- National Science & Technology Scholarship (Fully funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korea government
 
 ## Work Experience
 
@@ -64,6 +70,11 @@ Korea University, Seoul, Korea
 
 `2016~2019`
 - Military service exempted technical research personnel @ Korea University, Seoul, Korea
+
+`2013~2015`
+- T.A.
+    Database System, Undergraduate school @ Korea University, Seoul, Korea
+
 
 ## Publications
 
