@@ -92,6 +92,7 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
     - The development of chemical accident behavior analysis/damage prediction models and
 environmental risk map technology (Korea Environmental Industry and Technology
 Institute, 2015~ present)
+    ![데이터 기반 화학사고 잠재위험성 평가 및 가시화 연구](assets/riskmap.png)
 
 
 
