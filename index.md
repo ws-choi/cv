@@ -7,6 +7,8 @@ title: Woosung Choi's CV
 <div id="webaddress">
 <a href="ws_choi@korea.ac.kr">ws_choi AT kore.ac.kr</a>
 | <a href="http://intelligence.korea.ac.kr/members/wschoi/">My blog (kr/en) </a>
+| <a href="https://github.com/ws-choi">Github</a>
+
 </div>
 
 ## Currently
@@ -36,27 +38,27 @@ Korea University, Seoul, Korea
 
 ## Awards
 
-- 2016 Qualcomm Innovation Award (Korea University + Qualcomm): 
+`2016`
+- Qualcomm Innovation Award (Korea University + Qualcomm): 
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
-- 2014 Best Paper (Korea Information Processing Society Conference):
+
+`2014`
+- Best Paper (Korea Information Processing Society Conference):
     - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
-
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
+`2020`
 **Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Investigating u-nets with various intermediate blocks for spectrogram-based singing voice separation." 21th International Society for Music Information Retrieval Conference, **ISMIR**, 2020.
 
 **Choi, Woosung.**, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **Electronics** 9.3 2020: 514. (indexed by SCIe)
 
+`2019`
 Kim, Minseok., **Choi, Woosung.**, Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Deep Convolutional Music Source Separation with Complex-valued Spectrograms." The 3rd ICICPE 2019 Conference Committees.
 
 **Choi, Woosung.**, Kim, Minseok., Lee, Daewon., Chung, Jaehwa., and Jung, Soonyoung. "KorPhone2Vec-SA: A Deep Korean Phoneme-level Embedding-based Sentiment Analysis." The 3rd ICICPE 2019 Conference Committees.
 
+`~ 2018`
 Lim, T., **Choi, Woosung.**, Kim, M., Lee, T., & Jung, S. "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset. In Advances in Computer Science and Ubiquitous Computing" (pp. 42-47). Springer, Singapore. 2018
 
 Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., & Jung, S. "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment". International Journal on Advanced Science, Engineering and Information Technology, 8(4-2), 1686-1691. 2018
@@ -71,7 +73,7 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Lim, T., Jung, S. Y., & Chung, J. 
 
 Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., & Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
-### Projects
+## Projects
 
 - Principal Investigator: Woosung Choi, Korea University
     - Deep Attention Network-based Acoustic Source Separation (National Research Foundation of Korea, 2019~present)
