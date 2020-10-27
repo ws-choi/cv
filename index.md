@@ -47,7 +47,7 @@ Korea University, Seoul, Korea
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
 
 - Best Paper (Korea Information Processing Society Conference):
-    - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+    - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., and Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 `2014`
 - Scholarship supported by Korea University
@@ -83,25 +83,38 @@ Korea University, Seoul, Korea
 
 **Choi, Woosung.**, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **Electronics** 9.3 2020: 514. (indexed by SCIe)
 
+Kim, M. S., **Choi, Woosung.**, and Jung, S. Y. (2020). Frequency Range Enhancement for Faster Convergence of Neural Music Source Separation Systems. In Proceedings of the Korea Information Processing Society Conference (pp. 567-569). Korea Information Processing Society.
+
 `2019`
 Kim, Minseok., **Choi, Woosung.**, Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Deep Convolutional Music Source Separation with Complex-valued Spectrograms." The 3rd ICICPE 2019 Conference Committees.
 
 **Choi, Woosung.**, Kim, Minseok., Lee, Daewon., Chung, Jaehwa., and Jung, Soonyoung. "KorPhone2Vec-SA: A Deep Korean Phoneme-level Embedding-based Sentiment Analysis." The 3rd ICICPE 2019 Conference Committees.
 
 `~ 2018`
-Lim, T., **Choi, Woosung.**, Kim, M., Lee, T., & Jung, S. "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset. In Advances in Computer Science and Ubiquitous Computing" (pp. 42-47). Springer, Singapore. 2018
 
-Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., & Jung, S. "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment". International Journal on Advanced Science, Engineering and Information Technology, 8(4-2), 1686-1691. 2018
+Jung, H. D., Lee, T. M., **Choi, Woosung.**, and Jung, S. Y. "Information retrieval service for chemical accident response using messenger Chat bot." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2018.
 
-**Choi, Woosung.**, Min, J., Lee, T., Hyun, K., Lim, T., & Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
+Lim, T., **Choi, Woosung.**, Kim, M., Lee, T., and Jung, S. "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset. In Advances in Computer Science and Ubiquitous Computing" (pp. 42-47). Springer, Singapore. 2018
+
+Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., and Jung, S. "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment". International Journal on Advanced Science, Engineering and Information Technology, 8(4-2), 1686-1691. 2018
+
+**Choi, Woosung.**, Min, J., Lee, T., Hyun, K., Lim, T., and Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
 
 **Choi, Woosung.**, M. Kim, G. Diana, J. Chung and S. Jung, "An Efficient Angular Space Partitioning Based Skyline Query Processing Using Sampling-Based Pruning," KIPS Transactions on Software and Data Engineering, vol. 6, no. 1, pp. 1-8, 2017. DOI: 10.3745/KTSDE.2017.6.1.1.
 
-**Choi, Woosung.**,  Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016. (Best Paper)
+**Choi, Woosung.**, Min, J. H., Lim, T. H., Hyun, K. S., Kim, M. S., and Jung, S. Y. "Performance Analysis of Branch and Bound Skyline Computation via Evaluation Function." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2017.
 
-Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Lim, T., Jung, S. Y., & Chung, J. "In-memory processing for nearest user-specified group search." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2015. 797-803.
+**Choi, Woosung.**,  Min, J. H., Chung, J., and Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016. (Best Paper)
 
-Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., & Chung, J. "Towards near`est collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
+Lee, T., **Choi, Woosung.**, Jung, S. "Improvement of position accuracy of geocoded coordination based on Ensemble method." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+
+**Choi, Woosung.**,  Hyun, K. S., Kim, J. Y., Jung, S., and Kim, J. "I/O Optimality and Performance Analysis of Branch and Bound Dynamic Skyline Query." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2015.
+
+Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Lim, T., Jung, S. Y., and Chung, J. "In-memory processing for nearest user-specified group search." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2015. 797-803.
+
+Gromyko, D., Jang, H. J.,  **Choi, Woosung.**, Hyun, K. S., Chung, J., and Jung, S. Y. (2015). The Method of Nearest Surrounder Query Processing in Three-Dimensional Space. In Proceedings of the Korea Information Processing Society Conference (pp. 1211-1214). Korea Information Processing Society.
+
+Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
 ## Projects
 
