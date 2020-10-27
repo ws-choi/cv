@@ -13,7 +13,7 @@ title: Woosung Choi's CV
 
 ## Currently
 
-A Ph.D student @ Department of Computer Science, Korea University
+A Ph.D Candidate @ Department of Computer Science, Korea University
 
 ### Specialized in
 
@@ -38,6 +38,10 @@ Korea University, Seoul, Korea
 
 ## Awards
 
+`2019`
+- [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
+    - Spring, 2019, [COSE371: Database](https://cose371.github.io/)
+
 `2016`
 - Qualcomm Innovation Award (Korea University + Qualcomm): 
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
@@ -45,6 +49,18 @@ Korea University, Seoul, Korea
 `2014`
 - Best Paper (Korea Information Processing Society Conference):
     - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+
+## Work Experience
+
+`2020`
+- T.A.: Deep Learning, Graduate School @ Korea National Open University, Korea
+
+`2019` 
+- Lecturer: Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
+- Lecturer: Offline lectures(Database Design and Implementation, Internet and Information Society, Database) @ Korea National Open University, Korea
+
+`2016~2019`
+- Military service exempted technical research personnel @ Korea University, Seoul, Korea
 
 ## Publications
 
@@ -75,10 +91,11 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
 
 ## Projects
 
-- Principal Investigator: Woosung Choi, Korea University
+- Principal Investigator: **Woosung Choi**, Korea University
     - Deep Attention Network-based Acoustic Source Separation (National Research Foundation of Korea, 2019~present)
 - Principal Investigator: Prof. Soonyoung Jung, Korea University
     - Research on Neural Network-based Spectrogram Transformation Block Applicable to Various Acoustic Signal Processing (National Research Foundation of Korea, 2020~ present))
+        - [project link](http://intelligence.korea.ac.kr/news/on-going-research/2019/12/24/bss.html)
     - Artificial Neural Network-based Range Query Processing over High-dimensional Datasets (National Research Foundation of Korea, 2019~ 2020)
     - Multidimensional Semantics based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, 2016~2018)
     - Research on cluster-based distributed management and query processing on massive trajectory data for supporting next-generation LBS (National Research Foundation of Korea, 2013~2016)
@@ -91,10 +108,8 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
 - Principal investigator: Prof. Jong-Ryeul Sohn, Korea University
     - The development of chemical accident behavior analysis/damage prediction models and
 environmental risk map technology (Korea Environmental Industry and Technology
-Institute, 2015~ present)
-    - <img src='assets/riskmap.png' width=50% />
-
-
+Institute, 2015~ 2020)
+        - [project link](http://intelligence.korea.ac.kr/seminar/on-going-research/2018/08/04/riskmap.html) 
 
 <!-- ### Footer
 
