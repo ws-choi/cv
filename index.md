@@ -71,7 +71,7 @@ Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., & Jung, S. 
 
 Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Lim, T., Jung, S. Y., & Chung, J. "In-memory processing for nearest user-specified group search." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2015. 797-803.
 
-Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., & Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
+Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., & Chung, J. "Towards near`est collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
 ## Projects
 
@@ -92,7 +92,7 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
     - The development of chemical accident behavior analysis/damage prediction models and
 environmental risk map technology (Korea Environmental Industry and Technology
 Institute, 2015~ present)
-    ![데이터 기반 화학사고 잠재위험성 평가 및 가시화 연구](assets/riskmap.png)
+    - <img src='assets/riskmap.png' width=50% />
 
 
 
