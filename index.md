@@ -46,18 +46,21 @@ Korea University, Seoul, Korea
 - Qualcomm Innovation Award (Korea University + Qualcomm): 
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
 
-`2014`
 - Best Paper (Korea Information Processing Society Conference):
     - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., & Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 ## Work Experience
 
 `2020`
-- T.A.: Deep Learning, Graduate School @ Korea National Open University, Korea
+- T.A.
+    - Deep Learning, Graduate School @ Korea National Open University, Korea
 
 `2019` 
-- Lecturer: Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
-- Lecturer: Offline lectures(Database Design and Implementation, Internet and Information Society, Database) @ Korea National Open University, Korea
+- Lecturer
+    - Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
+    - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
+    - Internet and Information Society @ Korea National Open University, Korea (as an offline lecturer)
+    - Database @ Korea National Open University, Korea (as an offline lecturer)
 
 `2016~2019`
 - Military service exempted technical research personnel @ Korea University, Seoul, Korea
