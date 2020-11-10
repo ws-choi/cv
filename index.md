@@ -132,9 +132,7 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
     - Research on Spatial Query Processing in 3D Space for Real-time Location-based Mobile
     Augmented Reality Service (National Research Foundation of Korea, 2012~2013)
 - Principal investigator: Prof. Daewon Lee, Seokyeong University
-    - The development of chemical accident behavior analysis/damage prediction models and
-    environmental risk map technology (Korea Environmental Industry and Technology
-    Institute, 2015~ present)
+    - A study on acoustic signal processing based on deep learning for an adaptive ANC platform (National Research Foundation of Korea, 2019~2020)+
 - Principal investigator: Prof. Jong-Ryeul Sohn, Korea University
     - The development of chemical accident behavior analysis/damage prediction models and
 environmental risk map technology (Korea Environmental Industry and Technology
