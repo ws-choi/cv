@@ -119,6 +119,21 @@ Gromyko, D., Jang, H. J.,  **Choi, Woosung.**, Hyun, K. S., Chung, J., and Jung,
 
 Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
+## Invited Seminars
+
+`11/11/20`
+
+LaSAFT: Latent Source Attentive Frequency Transformation for Conditioned Source Separation [slide](https://lightsaft.github.io/slide/gaudio/) 
+
+@ [Gaudio Lab](https://gaudiolab.com/), Seoul, Korea
+
+`11/16/20`
+
+Audio Source Separation: Basic
+
+@ [BigLab](http://cafe.naver.com/biglab) - Sahmyook University, Seoul, Korea
+
+
 ## Projects
 
 - Principal Investigator: **Woosung Choi**, Korea University
