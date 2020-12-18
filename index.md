@@ -13,7 +13,7 @@ title: Woosung Choi's CV
 
 ## Currently
 
-A Ph.D Candidate @ Department of Computer Science, Korea University
+A Ph.D. Candidate @ Department of Computer Science, Korea University
 
 ### Specialized in
 
@@ -22,7 +22,7 @@ A Ph.D Candidate @ Department of Computer Science, Korea University
 
 ### Research interests
 
-Machine Learning, Signal Processng, Artificial intelligence, and Database Systems
+Machine Learning, Signal Processing, Artificial intelligence, and Database Systems
 
 ## Selected Publications
 
@@ -40,8 +40,8 @@ BSc Computer Science Education (3.5/4.0)
 
 Korea University, Seoul, Korea
 
-`2013 - now`
-PhD Candidate Computer Science (3.9/4.0)
+`2013 - now.`
+Ph.D. Candidate Computer Science (3.9/4.0)
 
 Korea University, Seoul, Korea
 
@@ -56,13 +56,13 @@ Korea University, Seoul, Korea
     - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
 
 - Best Paper (Korea Information Processing Society Conference):
-    - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., and Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+    - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., and Jung, S. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 `2014`
 - Scholarship supported by Korea University
 
 `2009~2013`
-- National Science & Technology Scholarship (Fully funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korea government
+- National Science & Technology Scholarship (Fully-funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korea government
 
 ## Work Experience
 
@@ -102,21 +102,21 @@ Kim, Minseok., **Choi, Woosung.**, Chung, Jaehwa., Lee, Daewon., and Jung, Soony
 
 **Choi, Woosung.**, Kim, Minseok., Lee, Daewon., Chung, Jaehwa., and Jung, Soonyoung. "KorPhone2Vec-SA: A Deep Korean Phoneme-level Embedding-based Sentiment Analysis." The 3rd ICICPE 2019 Conference Committees.
 
-`~ 2018`
+`~ 2018.`
 
-Jung, H. D., Lee, T. M., **Choi, Woosung.**, and Jung, S. Y. "Information retrieval service for chemical accident response using messenger Chat bot." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2018.
+Jung, H. D., Lee, T. M., **Choi, Woosung.**, and Jung, S. Y. "Information retrieval service for chemical accident response using messenger Chatbot." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2018.
 
 Lim, T., **Choi, Woosung.**, Kim, M., Lee, T., and Jung, S. "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset. In Advances in Computer Science and Ubiquitous Computing" (pp. 42-47). Springer, Singapore. 2018
 
-Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., and Jung, S. "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment". International Journal on Advanced Science, Engineering and Information Technology, 8(4-2), 1686-1691. 2018
+Lee, T., **Choi, Woosung.**, Sohn, J., Moon, K., Byeon, S., Lee, W., and Jung, S. "Spatial Clustering-based Meteorological Fields Construction for Regional Vulnerability Assessment." International Journal on Advanced Science, Engineering and Information Technology, 8(4-2), 1686-1691. 2018
 
 **Choi, Woosung.**, Min, J., Lee, T., Hyun, K., Lim, T., and Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
 
-**Choi, Woosung.**, M. Kim, G. Diana, J. Chung and S. Jung, "An Efficient Angular Space Partitioning Based Skyline Query Processing Using Sampling-Based Pruning," KIPS Transactions on Software and Data Engineering, vol. 6, no. 1, pp. 1-8, 2017. DOI: 10.3745/KTSDE.2017.6.1.1.
+**Choi, Woosung.**, M. Kim, G. Diana, J. Chung, and S. Jung, "An Efficient Angular Space Partitioning Based Skyline Query Processing Using Sampling-Based Pruning," KIPS Transactions on Software and Data Engineering, vol. 6, no. 1, pp. 1-8, 2017. DOI: 10.3745/KTSDE.2017.6.1.1.
 
 **Choi, Woosung.**, Min, J. H., Lim, T. H., Hyun, K. S., Kim, M. S., and Jung, S. Y. "Performance Analysis of Branch and Bound Skyline Computation via Evaluation Function." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2017.
 
-**Choi, Woosung.**,  Min, J. H., Chung, J., and Jung, S. "A Sampling based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016. (Best Paper)
+**Choi, Woosung.**,  Min, J. H., Chung, J., and Jung, S. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016. (Best Paper)
 
 Lee, T., **Choi, Woosung.**, Jung, S. "Improvement of position accuracy of geocoded coordination based on Ensemble method." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
@@ -151,7 +151,7 @@ Audio Source Separation: Basic
     - Research on Neural Network-based Spectrogram Transformation Block Applicable to Various Acoustic Signal Processing (National Research Foundation of Korea, 2020~ present))
         - [project link](http://intelligence.korea.ac.kr/news/on-going-research/2019/12/24/bss.html)
     - Artificial Neural Network-based Range Query Processing over High-dimensional Datasets (National Research Foundation of Korea, 2019~ 2020)
-    - Multidimensional Semantics based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, 2016~2018)
+    - Multidimensional Semantics-based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, 2016~2018)
     - Research on cluster-based distributed management and query processing on massive trajectory data for supporting next-generation LBS (National Research Foundation of Korea, 2013~2016)
     - Research on Spatial Query Processing in 3D Space for Real-time Location-based Mobile
     Augmented Reality Service (National Research Foundation of Korea, 2012~2013)
