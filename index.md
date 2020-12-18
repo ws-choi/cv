@@ -24,6 +24,17 @@ A Ph.D Candidate @ Department of Computer Science, Korea University
 
 Machine Learning, Signal Processng, Artificial intelligence, and Database Systems
 
+## Selected Publication
+
+## Publications
+
+**Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." arXiv preprint arXiv:2010.11631 (2020). ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb))
+
+**Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Investigating u-nets with various intermediate blocks for spectrogram-based singing voice separation." 21th International Society for Music Information Retrieval Conference, **[ISMIR](https://program.ismir2020.net/poster_2-04.html)**, 2020. ( [github](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [colab](https://colab.research.google.com/github/ws-choi/ISMIR2020_U_Nets_SVS/blob/master/colab_demo/TFC_TDF_Net_Large.ipynb))
+
+**Choi, Woosung.**, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
+
+
 ## Education
 
 `2009-2013`
