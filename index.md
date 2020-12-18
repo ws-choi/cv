@@ -8,7 +8,8 @@ title: Woosung Choi's CV
 <a href="ws_choi@korea.ac.kr">ws_choi AT kore.ac.kr</a>
 | <a href="http://intelligence.korea.ac.kr/members/wschoi/">My blog (kr/en) </a>
 | <a href="https://github.com/ws-choi">Github</a>
-
+| <a href="https://lightsaft.github.io/portfolio/wschoi">Portfolio</a>
+    
 </div>
 
 ## Currently
