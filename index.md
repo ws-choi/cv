@@ -24,9 +24,7 @@ A Ph.D Candidate @ Department of Computer Science, Korea University
 
 Machine Learning, Signal Processng, Artificial intelligence, and Database Systems
 
-## Selected Publication
-
-## Publications
+## Selected Publications
 
 **Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." arXiv preprint arXiv:2010.11631 (2020). ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb))
 
