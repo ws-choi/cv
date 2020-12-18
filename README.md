@@ -3,6 +3,7 @@
 - *[CV(http://ws-choi.github.io/)](http://ws-choi.github.io/) - based on markdown-cv
 - [Blog](http://intelligence.korea.ac.kr/members/wschoi/)
 - [Github](https://github.com/ws-choi)
+- [portfolio](https://lightsaft.github.io/portfolio/wschoi/)
 
 ### Author
 
