@@ -143,6 +143,11 @@ Audio Source Separation: Basic
 
 @ [BigLab](http://cafe.naver.com/biglab) - Sahmyook University, Seoul, Korea
 
+## Patents
+
+`2020`
+
+Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR EDUCATING AND COMPARING CLUSTERING ALGORITHMS, RECORDING MEDIUM FOR PERFORMING THE METHOD. KR Patent, 10-2020-0054364
 
 ## Projects
 
