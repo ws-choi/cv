@@ -36,12 +36,12 @@ Machine Learning, Signal Processing, Artificial intelligence, and Database Syste
 
 ## Education
 
-`2009-2013`
+`09.03.-13.02.`
 BSc Computer Science Education (3.5/4.0)
 
 Korea University, Seoul, Korea
 
-`2013.03. - 2021.09(expected)`
+`13.03.-21.08(expected)`
 Ph.D. Computer Science (3.9/4.0)
 
 Korea University, Seoul, Korea
