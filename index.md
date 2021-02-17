@@ -75,27 +75,27 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 ## Experience
 
 `2019~` 
-- Part-time Lecturer
-    - Database Design and Implementation @ Korea National Open University, Korea 
-    - Internet and Information Society @ Korea National Open University, Korea
-    - Database @ Korea National Open University, Korea
+- Part-time Lecturer (Korea National Open University, Korea)
+    - Database Design and Implementation
+    - Internet and Information Society
+    - Database
 
 `2019~2019` 
-- Part-time Lecturer
-    - Database(COSE371) ([cose371.github.io](https://cose371.github.io/)) , Undergraduate school @ Korea University, Seoul, Korea
+- Part-time Lecturer (Korea University, Seoul, Korea)
+    - Database(COSE371) ([cose371.github.io](https://cose371.github.io/)) , Undergraduate school
 
 `2019~`
-- Teaching Assistant
-    - Deep Learning, Graduate School @ Korea National Open University, Korea
-    - Python, Under-graduate School @ Korea National Open University PRIME COLLEGE, Korea
+- Teaching Assistant (Korea National Open University, Korea)
+    - Deep Learning, Graduate School
+    - Python, Under-graduate School (PRIME COLLEGE), Korea
 
 
 `2016~2019`
-- Military service exempted technical research personnel @ Korea University, Seoul, Korea
+- Military service exempted technical research personnel (Korea University, Seoul, Korea)
 
 `2013~2015`
-- Teaching Assistant
-    - Database System, Undergraduate school @ Korea University, Seoul, Korea
+- Teaching Assistant (Korea University, Seoul, Korea)
+    - Database System, Undergraduate school
 
 
 ## Projects
