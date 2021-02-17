@@ -18,7 +18,7 @@ A Ph.D. Candidate @ Department of Computer Science, Korea University
 
 ### Research interests
 
-***[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS)***, ***[Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)***, and Machine Learning for Speech & Audio
+Machine Learning for Speech & Audio; (e.g., ***[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS)*** or ***[Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)***)
 
 ## Education
 
