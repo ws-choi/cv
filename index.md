@@ -61,7 +61,7 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 
 `2019`
 - [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
-    - Spring, 2019, COSE371: Database (https://cose371.github.io/)
+    - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
 
 `2016`
 - [Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University): 
@@ -80,18 +80,19 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 
 `2019~` 
 - Part-time Lecturer
-    - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
-    - Internet and Information Society @ Korea National Open University, Korea (as an offline lecturer)
-    - Database @ Korea National Open University, Korea (as an offline lecturer)
+    - Database Design and Implementation @ Korea National Open University, Korea 
+    - Internet and Information Society @ Korea National Open University, Korea
+    - Database @ Korea National Open University, Korea
+
+`2019~2019` 
+- Part-time Lecturer
+    - Database(COSE371) ([cose371.github.io](https://cose371.github.io/)) , Undergraduate school @ Korea University, Seoul, Korea
 
 `2019~`
 - Teaching Assistant
     - Deep Learning, Graduate School @ Korea National Open University, Korea
     - Python, Under-graduate School @ Korea National Open University PRIME COLLEGE, Korea
 
-`2019~2019` 
-- Part-time Lecturer
-    - Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
 
 `2016~2019`
 - Military service exempted technical research personnel @ Korea University, Seoul, Korea
