@@ -16,13 +16,9 @@ title: Woosung Choi
 
 A Ph.D. Candidate @ Department of Computer Science, Korea University
 
-### Specialized in
-
-***[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS)***, ***[Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)***
-
 ### Research interests
 
-Machine Learning for Speech & Audio
+***[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS)***, ***[Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)***, and Machine Learning for Speech & Audio
 
 ## Education
 
