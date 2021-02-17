@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Woosung Choi's CV
+title: Woosung Choi
 ---
 # Woosung Choi
 
@@ -61,7 +61,7 @@ Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR ED
 
 `2019`
 - [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
-    - Spring, 2019, [COSE371: Database](https://cose371.github.io/)
+    - Spring, 2019, COSE371: Database (https://cose371.github.io/)
 
 `2016`
 - [Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University): 
