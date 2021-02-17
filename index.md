@@ -27,12 +27,12 @@ Machine Learning for Speech & Audio
 ## Education
 
 `2009-2013`
-BSc Computer Science Education (3.5/4.0)
+BSc Computer Science Education (3.99/4.5)
 
 Korea University, Seoul, Korea
 
 `2013-2021.08.`
-Ph.D. ***(expected)*** Computer Science (3.9/4.0)
+Ph.D. ***(expected)*** Computer Science (4.47/4.5)
 
 Korea University, Seoul, Korea
 
@@ -60,10 +60,10 @@ Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR ED
     - Spring, 2019, [COSE371: Database](https://cose371.github.io/)
 
 `2016`
-- Qualcomm Innovation Scholarship Award (Qualcomm and Korea University): 
-    - [Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)
+- [Qualcomm Innovation Scholarship Award]((https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University): 
+    - Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure
 
-- Best Paper (Korea Information Processing Society Conference):
+- [Best Paper](https://www.researchgate.net/publication/316336290_An_Efficient_Angular_Space_Partitioning_Based_Skyline_Query_Processing_Using_Sampling-Based_Pruning) (Korea Information Processing Society Conference):
     - **Choi, Woosung.**, W. S., Min, J. H., Chung, J., and Jung, S. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 `2014`
@@ -74,17 +74,20 @@ Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR ED
 
 ## Experience
 
-`2020~`
+`2019~` 
+- Part-time Lecturer
+    - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
+    - Internet and Information Society @ Korea National Open University, Korea (as an offline lecturer)
+    - Database @ Korea National Open University, Korea (as an offline lecturer)
+
+`2019~`
 - Teaching Assistant
     - Deep Learning, Graduate School @ Korea National Open University, Korea
     - Python, Under-graduate School @ Korea National Open University PRIME COLLEGE, Korea
 
-`2019~` 
-- Lecturer
+`2019~2019` 
+- Part-time Lecturer
     - Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
-    - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
-    - Internet and Information Society @ Korea National Open University, Korea (as an offline lecturer)
-    - Database @ Korea National Open University, Korea (as an offline lecturer)
 
 `2016~2019`
 - Military service exempted technical research personnel @ Korea University, Seoul, Korea
@@ -92,6 +95,20 @@ Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR ED
 `2013~2015`
 - Teaching Assistant
     - Database System, Undergraduate school @ Korea University, Seoul, Korea
+
+## Invited Seminars
+
+`11/11/20`
+
+LaSAFT: Latent Source Attentive Frequency Transformation for Conditioned Source Separation [slide](https://lightsaft.github.io/slide/gaudio/) 
+
+@ [Gaudio Lab](https://gaudiolab.com/), Seoul, Korea
+
+`11/16/20`
+
+Audio Source Separation: Basic
+
+@ [BigLab](http://cafe.naver.com/biglab) - Sahmyook University, Seoul, Korea
 
 
 ## Publications
@@ -137,20 +154,6 @@ Gromyko, D., Jang, H. J.,  **Choi, Woosung.**, Hyun, K. S., Chung, J., and Jung,
 
 Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
-## Invited Seminars
-
-`11/11/20`
-
-LaSAFT: Latent Source Attentive Frequency Transformation for Conditioned Source Separation [slide](https://lightsaft.github.io/slide/gaudio/) 
-
-@ [Gaudio Lab](https://gaudiolab.com/), Seoul, Korea
-
-`11/16/20`
-
-Audio Source Separation: Basic
-
-@ [BigLab](http://cafe.naver.com/biglab) - Sahmyook University, Seoul, Korea
-
 
 
 ## Projects
@@ -175,6 +178,6 @@ Institute, 2015~ 2020)
 
 <!-- ### Footer
 
-Last updated: Feb 2017 -->
+Last updated: Feb 2021 -->
 
 
