@@ -57,14 +57,14 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 ## Grants and Awards
 
 `2019`
-- [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
+- ***[Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#)*** (Korea University)
     - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
 
 `2016`
-- [Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University): 
+- ***[Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG)*** (Qualcomm and Korea University): 
     - Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure
 
-- [Best Paper](https://www.researchgate.net/publication/316336290_An_Efficient_Angular_Space_Partitioning_Based_Skyline_Query_Processing_Using_Sampling-Based_Pruning) (Korea Information Processing Society Conference):
+- ***[Best Paper](https://www.researchgate.net/publication/316336290_An_Efficient_Angular_Space_Partitioning_Based_Skyline_Query_Processing_Using_Sampling-Based_Pruning)*** (Korea Information Processing Society Conference):
     - ***Choi, Woosung.***, Min, J. H., Chung, Jaehwa., and Jung, Soonyoung. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 `2014`
