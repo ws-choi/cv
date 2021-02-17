@@ -65,7 +65,7 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
     - Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure
 
 - [Best Paper](https://www.researchgate.net/publication/316336290_An_Efficient_Angular_Space_Partitioning_Based_Skyline_Query_Processing_Using_Sampling-Based_Pruning) (Korea Information Processing Society Conference):
-    - ***Choi, Woosung.***, W. S., Min, J. H., Chung, J., and Jung, S. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
+    - ***Choi, Woosung.***, Min, J. H., Chung, Jaehwa., and Jung, Soonyoung. "A Sampling-based Pruning Approach for Efficient Angular Space Partitioning based Skyline Query Processing." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2016.
 
 `2014`
 - Scholarship supported by Korea University
