@@ -18,12 +18,24 @@ A Ph.D. Candidate @ Department of Computer Science, Korea University
 
 ### Specialized in
 
-[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), 
-
+[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)
 
 ### Research interests
 
-Machine Learning, Signal Processing, Artificial intelligence, and Database Systems
+Machine Learning for Speech & Audio
+
+## Education
+
+`2009-2013`
+BSc Computer Science Education (3.5/4.0)
+
+Korea University, Seoul, Korea
+
+`2013-2021.08.`
+Ph.D. ***(expected)*** Computer Science (3.9/4.0)
+
+Korea University, Seoul, Korea
+
 
 ## Selected Publications
 
@@ -34,19 +46,14 @@ Machine Learning, Signal Processing, Artificial intelligence, and Database Syste
 **Choi, Woosung.**, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
 
 
-## Education
+## Patents
 
-`2009-2013`
-BSc Computer Science Education (3.5/4.0)
+`2020`
 
-Korea University, Seoul, Korea
+Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR EDUCATING AND COMPARING CLUSTERING ALGORITHMS, RECORDING MEDIUM FOR PERFORMING THE METHOD. KR Patent, 10-2020-0054364
 
-`2013-2021.08`
-Ph.D. ***(expected)*** Computer Science (3.9/4.0)
 
-Korea University, Seoul, Korea
-
-## Awards
+## Grants and Awards
 
 `2019`
 - [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
@@ -63,16 +70,16 @@ Korea University, Seoul, Korea
 - Scholarship supported by Korea University
 
 `2009~2013`
-- National Science & Technology Scholarship (Fully-funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korea government
+- National Science & Technology Scholarship (Fully-funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korean government
 
-## Work Experience
+## Experience
 
 `2020~`
-- T.A.
+- Teaching Assistant
     - Deep Learning, Graduate School @ Korea National Open University, Korea
     - Python, Under-graduate School @ Korea National Open University PRIME COLLEGE, Korea
 
-`2019` 
+`2019~` 
 - Lecturer
     - Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
     - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
@@ -83,8 +90,8 @@ Korea University, Seoul, Korea
 - Military service exempted technical research personnel @ Korea University, Seoul, Korea
 
 `2013~2015`
-- T.A.
-    Database System, Undergraduate school @ Korea University, Seoul, Korea
+- Teaching Assistant
+    - Database System, Undergraduate school @ Korea University, Seoul, Korea
 
 
 ## Publications
@@ -144,11 +151,7 @@ Audio Source Separation: Basic
 
 @ [BigLab](http://cafe.naver.com/biglab) - Sahmyook University, Seoul, Korea
 
-## Patents
 
-`2020`
-
-Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR EDUCATING AND COMPARING CLUSTERING ALGORITHMS, RECORDING MEDIUM FOR PERFORMING THE METHOD. KR Patent, 10-2020-0054364
 
 ## Projects
 
@@ -172,6 +175,6 @@ Institute, 2015~ 2020)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2017 -->
 
 
