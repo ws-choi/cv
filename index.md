@@ -34,12 +34,14 @@ Korea University, Seoul, Korea
 `2013-2021.08.`
 Ph.D. ***(expected)*** Computer Science (4.47/4.5)
 
+Advisor: Prof. Soonyoung Jung
+
 Korea University, Seoul, Korea
 
 
 ## Publications
 
-`Selected`
+`selected`
 
 **Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." arXiv preprint arXiv:2010.11631 (2020). ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) (accepted to **[ICASSP](https://2021.ieeeicassp.org/)** 2021)
 
@@ -47,7 +49,7 @@ Korea University, Seoul, Korea
 
 **Choi, Woosung.**, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
 
-`Full`
+`full`
 
 [link](https://github.com/ws-choi/ws-choi.github.io/blob/full-pub/index.md#publications)
 
@@ -104,23 +106,21 @@ Jung, Soonyoung, Kim, Minseok., and **Choi, Woosung.** "METHOD AND DEVICE FOR ED
 
 ## Projects
 
-- Principal Investigator: **Woosung Choi**, Korea University
-    - Deep Attention Network-based Acoustic Source Separation (National Research Foundation of Korea, 2019~present)
-- Principal Investigator: Prof. Soonyoung Jung, Korea University
-    - Research on Neural Network-based Spectrogram Transformation Block Applicable to Various Acoustic Signal Processing (National Research Foundation of Korea, 2020~ present))
-        - [project link](http://intelligence.korea.ac.kr/news/on-going-research/2019/12/24/bss.html)
-    - Artificial Neural Network-based Range Query Processing over High-dimensional Datasets (National Research Foundation of Korea, 2019~ 2020)
-    - Multidimensional Semantics-based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, 2016~2018)
-    - Research on cluster-based distributed management and query processing on massive trajectory data for supporting next-generation LBS (National Research Foundation of Korea, 2013~2016)
-    - Research on Spatial Query Processing in 3D Space for Real-time Location-based Mobile
-    Augmented Reality Service (National Research Foundation of Korea, 2012~2013)
-- Principal investigator: Prof. Daewon Lee, Seokyeong University
-    - A study on acoustic signal processing based on deep learning for an adaptive ANC platform (National Research Foundation of Korea, 2019~2020)+
-- Principal investigator: Prof. Jong-Ryeul Sohn, Korea University
-    - The development of chemical accident behavior analysis/damage prediction models and
-environmental risk map technology (Korea Environmental Industry and Technology
-Institute, 2015~ 2020)
-        - [project link](http://intelligence.korea.ac.kr/seminar/on-going-research/2018/08/04/riskmap.html) 
+`2019~2021`
+Deep Attention Network-based Acoustic Source Separation (National Research Foundation of Korea, 2019~present, Principal Investigator: **Woosung Choi**, Korea University)
+
+`2020~2021`
+Research on Neural Network-based Spectrogram Transformation Block Applicable to Various Acoustic Signal Processing (National Research Foundation of Korea, Principal Investigator: Prof. Soonyoung Jung, Korea University)
+
+`2019~2020`
+A study on acoustic signal processing based on deep learning for an adaptive ANC platform (National Research Foundation of Korea, Prof. Daewon Lee, Seokyeong University)
+
+`2016~2018`
+Multidimensional Semantics-based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, Principal Investigator: Prof. Soonyoung Jung, Korea University)
+
+`2015~ 2020`
+The development of chemical accident behavior analysis/damage prediction models and environmental risk map technology (Korea Environmental Industry and Technology
+Institute, Principal investigator: Prof. Jong-Ryeul Sohn, Korea University)
 
 <!-- ### Footer
 
