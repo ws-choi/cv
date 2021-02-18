@@ -13,6 +13,12 @@
     </div>
   </div>
   
-{% include analytics.html %}
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131286067-4"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag_(){dataLayer.push(arguments);}
+	gtag_('js', new Date());
+	gtag_('config', 'UA-131286067-4');
+	</script>
 </body>
 </html>
