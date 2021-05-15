@@ -39,6 +39,9 @@ Korea University, Seoul, Korea
 ## Publications
 
 `selected`
+
+***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "**AMSS-Net**: Audio Manipulation on User-Specified Sources with Textual Queries." arXiv preprint arXiv:2104.13553 (2021). ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) (preprint)
+
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." arXiv preprint arXiv:2010.11631 (2020). ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) (accepted to ***[ICASSP](https://2021.ieeeicassp.org/)*** 2021)
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Investigating u-nets with various intermediate blocks for spectrogram-based singing voice separation." 21th International Society for Music Information Retrieval Conference, ***[ISMIR](https://program.ismir2020.net/poster_2-04.html)***, 2020. ( [github](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [colab](https://colab.research.google.com/github/ws-choi/ISMIR2020_U_Nets_SVS/blob/master/colab_demo/TFC_TDF_Net_Large.ipynb))
