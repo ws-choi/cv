@@ -29,7 +29,9 @@ BSc Computer Science Education (3.99/4.5)
 Korea University, Seoul, Korea
 
 `2013-2021.08.`
-Ph.D. ***(expected)*** Computer Science (4.47/4.5)
+Ph.D. Computer Science (4.47/4.5)
+
+Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio Manipulation](assets/dissertation.pdf)
 
 Advisor: Prof. Soonyoung Jung
 
