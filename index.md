@@ -42,7 +42,7 @@ Korea University, Seoul, Korea
 
 `selected`
 
-***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "**AMSS-Net**: Audio Manipulation on User-Specified Sources with Textual Queries." arXiv preprint arXiv:2104.13553 (2021). ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) (preprint)
+***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "**AMSS-Net**: Audio Manipulation on User-Specified Sources with Textual Queries." arXiv preprint arXiv:2104.13553 (2021). ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) (Accepted to ***[ACMMM21](https://2021.acmmm.org/)*** )
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (***[ICASSP](https://2021.ieeeicassp.org/)***). IEEE, 2021. ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) 
 
