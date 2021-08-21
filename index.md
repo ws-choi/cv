@@ -61,6 +61,13 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 
 ## Grants and Awards
 
+
+`2021`
+- ***[Sony Music Demixing Challenge @ ISMIR 2021](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021)***
+    - [KUIELAB-MDX-Net](https://github.com/kuielab/mdx-net) 
+        - (silver medal) the 2nd place on the Leaderboard A
+        - (silver medal) the 3rd place on the Leaderboard B 
+
 `2019`
 - ***[Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#)*** (Korea University)
     - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
