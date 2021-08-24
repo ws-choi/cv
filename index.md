@@ -67,7 +67,9 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
     - [KUIELAB-MDX-Net](https://github.com/kuielab/mdx-net) 
         - (silver medal) the 2nd place on the Leaderboard A
         - (silver medal) the 3rd place on the Leaderboard B 
-
+- ***[LG-DACON: Improvement of The Camera Image Quality](https://dacon.io/competitions/official/235746/overview/description)***
+    - KUIELAB: FiLM${}^2$
+      - the 8th place on the leaderboard
 `2019`
 - ***[Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#)*** (Korea University)
     - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
