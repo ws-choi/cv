@@ -14,7 +14,7 @@ title: Woosung Choi
 
 ## Currently
 
-A Ph.D. Candidate @ Department of Computer Science, Korea University
+Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary University of London (QMUL)
 
 ### Research interests
 
@@ -29,7 +29,7 @@ BSc Computer Science Education (3.99/4.5)
 Korea University, Seoul, Korea
 
 `2013-2021.08.`
-Ph.D. Computer Science (4.47/4.5)
+Ph.D. Computer Science and Engineering (4.47/4.5)
 
 Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio Manipulation](assets/dissertation.pdf)
 
