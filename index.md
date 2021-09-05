@@ -36,13 +36,12 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 ## Grants and Awards
 
 `2021`
-- [Sony Music Demixing Challenge @ ISMIR 2021](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021)
-    - [KUIELAB-MDX-Net](https://github.com/kuielab/mdx-net) 
-        - (*silver* medal) the 2nd place on the Leaderboard A
-        - (*silver* medal) the 3rd place on the Leaderboard B 
+- [Sony Music Demixing Challenge @ ISMIR 2021](https://github.com/kuielab/mdx-net)
+    - KUIELAB-MDX-Net
+        - (silver medal) the 2nd place on the Leaderboard A
+        - (silver medal) the 3rd place on the Leaderboard B 
 - [LG-DACON: Improvement of The Camera Image Quality](https://dacon.io/competitions/official/235746/overview/description)
-    - KUIELAB: FiLM${}^2$
-      - *6th* place
+    - KUIELAB: FiLM${}^2$ : 6th place
 
 `2019`
 - [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
