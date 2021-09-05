@@ -14,29 +14,13 @@ title: Woosung Choi
 
 ## Currently
 
+PhD in Computer Science and Engineering
+
 Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary University of London (QMUL)
 
 ### Research interests
 
-- Machine Learning for Speech & Audio; 
-  - (e.g., ***[Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS)*** or ***[Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT)***)
-
-## Education
-
-`2009-2013`
-BSc Computer Science Education (3.99/4.5)
-
-Korea University, Seoul, Korea
-
-`2013-2021.08.`
-Ph.D. Computer Science and Engineering (4.47/4.5)
-
-Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio Manipulation](assets/dissertation.pdf)
-
-Advisor: Prof. Soonyoung Jung
-
-Korea University, Seoul, Korea
-
+- Machine Learning for Speech & Audio, Audio Editing Interface
 
 ## Publications
 
@@ -53,14 +37,7 @@ Korea University, Seoul, Korea
 `full`
 [link](https://github.com/ws-choi/ws-choi.github.io/blob/full-pub/index.md#publications)
 
-## Patents
-
-`2020`
-Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR EDUCATING AND COMPARING CLUSTERING ALGORITHMS, RECORDING MEDIUM FOR PERFORMING THE METHOD. KR Patent, 10-2020-0054364
-
-
 ## Grants and Awards
-
 
 `2021`
 - ***[Sony Music Demixing Challenge @ ISMIR 2021](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021)***
@@ -87,6 +64,28 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 
 `2009~2013`
 - National Science & Technology Scholarship (Fully-funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korean government
+
+## Patents
+
+`2020`
+Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR EDUCATING AND COMPARING CLUSTERING ALGORITHMS, RECORDING MEDIUM FOR PERFORMING THE METHOD. KR Patent, 10-2020-0054364
+
+
+## Education
+
+`2009-2013`
+BSc Computer Science Education (3.99/4.5)
+
+Korea University, Seoul, Korea
+
+`2013-2021.08.`
+Ph.D. Computer Science and Engineering (4.47/4.5)
+
+Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio Manipulation](assets/dissertation.pdf)
+
+Advisor: Prof. Soonyoung Jung
+
+Korea University, Seoul, Korea
 
 ## Experience
 
