@@ -72,10 +72,6 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 
 ## Education
 
-`2009-2013`
-BSc Computer Science Education (3.99/4.5)
-
-Korea University, Seoul, Korea
 
 `2013-2021.08.`
 Ph.D. Computer Science and Engineering (4.47/4.5)
@@ -85,6 +81,13 @@ Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio
 Advisor: Prof. Soonyoung Jung
 
 Korea University, Seoul, Korea
+
+
+`2009-2013`
+BSc Computer Science Education (3.99/4.5)
+
+Korea University, Seoul, Korea
+
 
 ## Experience
 
