@@ -73,7 +73,7 @@ Jung, Soonyoung, Kim, Minseok., and ***Choi, Woosung.*** "METHOD AND DEVICE FOR 
 ## Education
 
 
-`2013-2021.08.`
+`2013-2021`
 Ph.D. Computer Science and Engineering (4.47/4.5)
 
 Dissertation: [Deep Learning-based Latent Source Analysis for Source-aware Audio Manipulation](assets/dissertation.pdf)
