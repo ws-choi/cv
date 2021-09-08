@@ -49,7 +49,7 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
     - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
 
 `2016`
-- ***[Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University) ***
+- ***[Qualcomm Innovation Scholarship Award](https://1drv.ms/p/s!AszT-SZB_jBylxqwb5M7jddIE9Tk?e=6dOqAG) (Qualcomm and Korea University)***
     - Locality-Sensitive Neighborhood Component Analysis for Preserving Class Neighborhood Structure
 
 - ***[Best Paper](https://www.researchgate.net/publication/316336290_An_Efficient_Angular_Space_Partitioning_Based_Skyline_Query_Processing_Using_Sampling-Based_Pruning) (Korea Information Processing Society Conference)***
