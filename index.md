@@ -92,7 +92,7 @@ Korea University, Seoul, Korea
 ## Experience
 
 `2021~` 
-- Postdoctoral Researcher (Centre for Digital Music @ Queen Mary University of London, United Kingdom)
+- Postdoctoral Researcher (Centre for Digital Music @ Queen Mary University of London)
     - Automatic Audio Repair against Unknown Corruptions
     - Machine Learning for Music and Audio Processing
 
