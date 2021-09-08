@@ -102,14 +102,14 @@ Korea University, Seoul, Korea
     - Internet and Information Society
     - Database
 
-`2019~2019` 
-- Part-time Lecturer (Korea University, Seoul, Korea)
-    - Database(COSE371) ([cose371.github.io](https://cose371.github.io/)) , Undergraduate school
-
-`2019~`
+`2019~2021`
 - Teaching Assistant (Korea National Open University, Korea)
     - Deep Learning, Graduate School
     - Python, Under-graduate School (PRIME COLLEGE), Korea
+
+`2019~2019` 
+- Part-time Lecturer (Korea University, Seoul, Korea)
+    - Database(COSE371) ([cose371.github.io](https://cose371.github.io/)) , Undergraduate school
 
 `2016~2019`
 - Military service exempted technical research personnel (Korea University, Seoul, Korea)
