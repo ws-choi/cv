@@ -15,9 +15,9 @@ title: Woosung Choi
 
 ## Currently
 
-PhD in Computer Science and Engineering
+Postdoctoral Researcher
 
-Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary University of London (QMUL)
+Centre for Digital Music (C4DM) @ Queen Mary University of London (QMUL)
 
 ## Publications
 
