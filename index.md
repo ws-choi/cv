@@ -44,6 +44,9 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 - ***[LG-DACON: Improvement of The Camera Image Quality](https://dacon.io/competitions/official/235746/overview/description)***
     - TEAM KUIELAB: FiLM${}^2$ : 6th place
 
+- ***One of the Finalists for the ICASSP 2021 Student Best Paper Competition(https://ieeexplore.ieee.org/document/9413896/)***
+    - ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021. 
+
 `2019`
 - ***[Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)***
     - Spring, 2019, COSE371: Database ([cose371.github.io](https://cose371.github.io/))
