@@ -88,7 +88,12 @@ Korea University, Seoul, Korea
 
 ## Experience
 
-`2019~` 
+`2021~` 
+- Postdoctoral Researcher (Centre for Digital Music @ Queen Mary University of London, United Kingdom)
+    - Automatic Audio Repair against Unknown Corruptions
+    - Machine Learning for Music and Audio Processing
+
+`2019~2021` 
 - Part-time Lecturer (Korea National Open University, Korea)
     - Database Design and Implementation
     - Internet and Information Society
