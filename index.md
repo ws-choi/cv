@@ -5,7 +5,7 @@ title: Woosung Choi
 # Woosung Choi
 
 <div id="webaddress">
-<a href="ws_choi@korea.ac.kr">ws_choi AT kore.ac.kr</a>
+<a href="ws_choi@korea.ac.kr">ws_choi AT korea.ac.kr</a>
 | <a href="http://intelligence.korea.ac.kr/members/wschoi/">Blog (kr/en) </a>
 | <a href="https://github.com/ws-choi">Github</a>
 | <a href="https://ws-choi.github.io/dissertation-slide/">Portfolio</a>
