@@ -64,6 +64,12 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 `2009~2013`
 - National Science & Technology Scholarship (Fully-funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korean government
 
+## Talks
+
+`2021` 
+- [C4dm Seminar](https://c4dm.eecs.qmul.ac.uk/news/news.2021-11-03.C4DM_Seminar_-_Woosung_Choi_-_Audio_Manipulation_on_User-Specified_Sources_with_Textual_Queries_(Video_Available).html) @ Centre for Digital Music, Queen Mary University of London (3rd Nov)
+- Invited Talks: AMSS-Net @ Bytedance (4th Nov)
+
 ## Patents
 
 `2020`
@@ -145,6 +151,6 @@ Institute, Principal investigator: Prof. Jong-Ryeul Sohn, Korea University)
 
 <!-- ### Footer
 
-Last updated: Feb 2021 -->
+Last updated: Nov 2021 -->
 
 
