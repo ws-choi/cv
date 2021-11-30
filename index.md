@@ -23,16 +23,14 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 
 `selected`
 
-***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "AMSS-Net: Audio Manipulation on User-Specified Sources with Textual Queries." arXiv preprint arXiv:2104.13553 (2021). ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) (Accepted to ***[ACMMM21](https://2021.acmmm.org/)*** )
+***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "AMSS-Net: Audio Manipulation on User-Specified Sources with Textual Queries." Proceedings of the 29th ACM International Conference on Multimedia (***[ACMMM 21](https://dl.acm.org/doi/10.1145/3474085.3475323)***), Association for Computing Machinery, 2021. ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) 
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (***[ICASSP](https://2021.ieeeicassp.org/)***). IEEE, 2021. ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) 
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Investigating u-nets with various intermediate blocks for spectrogram-based singing voice separation." 21th International Society for Music Information Retrieval Conference, ***[ISMIR](https://program.ismir2020.net/poster_2-04.html)***, 2020. ( [github](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [colab](https://colab.research.google.com/github/ws-choi/ISMIR2020_U_Nets_SVS/blob/master/colab_demo/TFC_TDF_Net_Large.ipynb))
 
-***Choi, Woosung.***, Jung, Soonyoung/, Chung, Jaehwa., Hyun, Kyeong-Seok., and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." ***[Electronics](https://www.mdpi.com/2079-9292/9/3/514)*** 9.3 2020: 514. (indexed by SCIe)
-
 `full`
-[link](https://scholar.google.com/citations?user=zVirpHQAAAAJ&hl=ko)
+[link](https://scholar.google.com/citations?user=zVirpHQAAAAJ)
 
 ## Grants and Awards
 
@@ -67,6 +65,7 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 ## Talks
 
 `2021` 
+- Invited Talks: Music Source Separation @ [London Audio & Music AI Meetup](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/282385284/?fbclid=IwAR35-6B9QC7zv1KNj_t1EfG4jcLVWaPjfKSgoWnQc2ThRZKzyT4uIdy2EIA) (10th Dec)
 - [C4dm Seminar](https://c4dm.eecs.qmul.ac.uk/news/news.2021-11-03.C4DM_Seminar_-_Woosung_Choi_-_Audio_Manipulation_on_User-Specified_Sources_with_Textual_Queries_(Video_Available).html) @ Centre for Digital Music, Queen Mary University of London (3rd Nov)
 - Invited Talks: AMSS-Net @ Bytedance (4th Nov)
 
