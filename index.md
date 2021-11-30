@@ -25,15 +25,17 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 
 Kim, Minseok${}^{∗}$., ***Choi, Woosung***${}^{∗}$., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung.
 "KUIELab-MDX-Net: A Two-Stream Neural Network for Music Demixing."
-MDX Workshop @ ISMIR 2021
-[github](https://github.com/kuielab/mdx-net)
-(*: Equally Contributed)
+arXiv preprint arXiv:2111.12203. 
+(MDX Workshop @ ISMIR 2021),
+([github](https://github.com/kuielab/mdx-net))
 
 ***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "AMSS-Net: Audio Manipulation on User-Specified Sources with Textual Queries." Proceedings of the 29th ACM International Conference on Multimedia (***[ACMMM 21](https://dl.acm.org/doi/10.1145/3474085.3475323)***), Association for Computing Machinery, 2021. ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) 
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (***[ICASSP](https://2021.ieeeicassp.org/)***). IEEE, 2021. ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) 
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung. "Investigating u-nets with various intermediate blocks for spectrogram-based singing voice separation." 21th International Society for Music Information Retrieval Conference, ***[ISMIR](https://program.ismir2020.net/poster_2-04.html)***, 2020. ( [github](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [colab](https://colab.research.google.com/github/ws-choi/ISMIR2020_U_Nets_SVS/blob/master/colab_demo/TFC_TDF_Net_Large.ipynb))
+
+(*: Equally Contributed)
 
 `full`
 [link](https://scholar.google.com/citations?user=zVirpHQAAAAJ)
