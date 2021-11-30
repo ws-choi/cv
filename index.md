@@ -23,6 +23,12 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 
 `selected`
 
+Kim, Minseok${}^{∗}$., ***Choi, Woosung***${}^{∗}$., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung.
+"KUIELab-MDX-Net: A Two-Stream Neural Network for Music Demixing."
+MDX Workshop @ ISMIR 2021
+[github](https://github.com/kuielab/mdx-net)
+(*: Equally Contributed)
+
 ***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "AMSS-Net: Audio Manipulation on User-Specified Sources with Textual Queries." Proceedings of the 29th ACM International Conference on Multimedia (***[ACMMM 21](https://dl.acm.org/doi/10.1145/3474085.3475323)***), Association for Computing Machinery, 2021. ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) 
 
 ***Choi, Woosung.***, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (***[ICASSP](https://2021.ieeeicassp.org/)***). IEEE, 2021. ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb)) 
