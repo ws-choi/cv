@@ -72,10 +72,12 @@ arXiv preprint arXiv:2111.12203.
 
 ## Talks
 
-`2021` 
-- Invited Talks: Music Source Separation @ [London Audio & Music AI Meetup](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/282385284/?fbclid=IwAR35-6B9QC7zv1KNj_t1EfG4jcLVWaPjfKSgoWnQc2ThRZKzyT4uIdy2EIA) (10th Dec)
-- [C4dm Seminar](https://c4dm.eecs.qmul.ac.uk/news/news.2021-11-03.C4DM_Seminar_-_Woosung_Choi_-_Audio_Manipulation_on_User-Specified_Sources_with_Textual_Queries_(Video_Available).html) @ Centre for Digital Music, Queen Mary University of London (3rd Nov)
-- Invited Talks: AMSS-Net @ Bytedance (4th Nov)
+`2021.12` 
+- Invited Talk: [Music Source Separation](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/282385284/?fbclid=IwAR35-6B9QC7zv1KNj_t1EfG4jcLVWaPjfKSgoWnQc2ThRZKzyT4uIdy2EIA) @ ***London Audio & Music AI Meetup*** (10th Dec)
+
+`2021.11` 
+- Invited Talk: [C4DM Seminar](https://c4dm.eecs.qmul.ac.uk/news/news.2021-11-03.C4DM_Seminar_-_Woosung_Choi_-_Audio_Manipulation_on_User-Specified_Sources_with_Textual_Queries_(Video_Available).html) @ ***Centre for Digital Music***, Queen Mary University of London (3rd Nov)
+- Invited Talk: AMSS-Net @ ***Bytedance*** (4th Nov)
 
 ## Patents
 
