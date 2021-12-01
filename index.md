@@ -26,7 +26,7 @@ Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary Universi
 Kim, Minseok${}^{∗}$., ***Choi, Woosung***${}^{∗}$., Chung, Jaehwa., Lee, Daewon., and Jung, Soonyoung.
 "KUIELab-MDX-Net: A Two-Stream Neural Network for Music Demixing."
 arXiv preprint arXiv:2111.12203. 
-(MDX Workshop @ ISMIR 2021),
+(***[MDX Workshop @ ISMIR 2021](https://mdx-workshop.github.io/)***),
 ([github](https://github.com/kuielab/mdx-net))
 
 ***Choi, Woosung***, Kim, Minseok., Martinez Ramirez, Marco A., Chung, Jaehwa., and Jung, Soonyoung. "AMSS-Net: Audio Manipulation on User-Specified Sources with Textual Queries." Proceedings of the 29th ACM International Conference on Multimedia (***[ACMMM 21](https://dl.acm.org/doi/10.1145/3474085.3475323)***), Association for Computing Machinery, 2021. ([github](https://github.com/kuielab/AMSS-Net), [demo](https://kuielab.github.io/AMSS-Net/)) 
