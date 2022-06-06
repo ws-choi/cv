@@ -5,8 +5,8 @@ title: Woosung Choi
 # Woosung Choi
 
 <div id="webaddress">
-<a href="ws_choi@korea.ac.kr">ws_choi AT korea.ac.kr</a>
-| <a href="http://intelligence.korea.ac.kr/members/wschoi/">Blog (kr/en) </a>
+<a href="Woosung.Choi@sony.com">Woosung.Choi AT sony.com</a>
+| <a href="https://ws-choi.github.io/blog-kor">Blog (korean) </a>
 | <a href="https://github.com/ws-choi">Github</a>
 | <a href="https://ws-choi.github.io/dissertation-slide/">Portfolio</a>
 | <a href="https://soundcloud.com/choi-hn">Soundcloud</a>
@@ -17,7 +17,7 @@ title: Woosung Choi
 
 PhD in Computer Science and Engineering
 
-Postdoctoral Researcher at Centre for Digital Music (C4DM) @ Queen Mary University of London (QMUL)
+Research Engineer at Sony 
 
 ## Publications
 
@@ -106,7 +106,7 @@ Korea University, Seoul, Korea
 
 ## Experience
 
-`2021~` 
+`2021~2022.04` 
 - Postdoctoral Researcher (Centre for Digital Music @ Queen Mary University of London)
     - Automatic Audio Repair against Unknown Corruptions
     - Machine Learning for Music and Audio Processing
