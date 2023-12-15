@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: cv 
 title: Woosung Choi
 ---
 # Woosung Choi
